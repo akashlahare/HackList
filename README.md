@@ -1,6 +1,6 @@
 ## HackList - Security Testing Checklist Tool
 
-![SecList Tool Preview](https://github.com/akashlahare/Testing-Checklist/blob/main/image.png)
+![HackList Tool Preview](https://github.com/akashlahare/Testing-Checklist/blob/main/image.png)
 
 A web-based tool to manage and track security testing checklists for Web, API, Android, iOS, and Thick Client applications.
 
@@ -14,11 +14,11 @@ A web-based tool to manage and track security testing checklists for Web, API, A
 
 ## Quick Start
 
-1. Download `security-checklist-tool`
+1. Download `HackList`
 2. Open in any modern browser
 3. Create a project and start testing
 #### or
-4. Visit - https://akashlahare.github.io/Testing-Checklist/
+4. Visit - https://akashlahare.github.io/HackList/
 
 ## Tech Stack
 
