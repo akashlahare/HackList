@@ -1,4 +1,4 @@
-## HackList - Security Testing Checklist Tool
+## HackList - A Security Testing Checklist Tool
 
 ![HackList Tool Preview](https://github.com/akashlahare/testing-checklist/blob/main/image.png)
 
