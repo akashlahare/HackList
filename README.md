@@ -12,7 +12,7 @@ A web-based tool to manage and track security testing checklists for Web, API, A
 - **Export Reports** – Download results as Excel or HTML
 - **Local Storage** – All data saved in your browser
 
-## Quick Start
+## Usage
 
 1. Download `HackList`
 2. Open in any modern browser
